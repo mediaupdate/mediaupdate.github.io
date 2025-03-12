@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mediaupdate.github.io/sitemap.xml
